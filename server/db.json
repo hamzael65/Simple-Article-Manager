@@ -1,0 +1,39 @@
+{
+  "articles": [
+    {
+      "id": "2",
+      "title": "Dell Inspiron 14",
+      "body": "The Dell Inspiron 14 is a compact and lightweight laptop, powered by an Intel Core i5 processor, 8GB of RAM, and a 512GB SSD, perfect for students and professionals.",
+      "img": "https://www.it-orient.com/wp-content/uploads/2024/10/dell.jpg",
+      "prix": "579$"
+    },
+    {
+      "id": "3",
+      "title": "Lenovo ThinkPad X1",
+      "body": "The Lenovo ThinkPad X1 is known for its durability and performance, featuring an Intel i7 processor, 16GB of RAM, and a 1TB SSD. Great for power users and business professionals.",
+      "img": "https://goldentech.com.sa/media/catalog/product/cache/946540b9ae449ff2231a6d11d8e12a8d/l/a/laptop_lenovo_thinkpad_x1_carbon_gen_11_intel_core_i7-1355u_processor_21hm005pad.jpg",
+      "prix": "1229$"
+    },
+    {
+      "id": "4",
+      "title": "Acer Aspire 5",
+      "body": "Acer Aspire 5 is an affordable laptop with a 15.6-inch screen, AMD Ryzen 3 processor, 4GB RAM, and a 128GB SSD. Ideal for basic tasks like browsing and document editing.",
+      "img": "https://www.tera.ma/wp-content/uploads/2022/11/ACER-Aspire-A515-56-72DA-i7.jpg",
+      "prix": "349$"
+    },
+    {
+      "id": "5",
+      "title": "MacBook Pro 13-inch",
+      "body": "The MacBook Pro 13-inch offers excellent performance with an Apple M1 chip, 8GB RAM, and a 256GB SSD, perfect for creative professionals and students.",
+      "img": "https://cdsassets.apple.com/live/SZLF0YNV/images/sp/111999_SP747_mbp13-gray.jpg",
+      "prix": "1499$"
+    },
+    {
+      "id": "6",
+      "title": "gdf",
+      "body": "dfgd",
+      "img": "https://i5.walmartimages.com/seo/HP-15-6-Screen-FHD-Laptop-Computer-AMD-Ryzen-5-5500U-8GB-RAM-256GB-SSD-Spruce-Blue-Windows-11-Home-15-ef2729wm_8dee5689-db47-45ac-9a0d-5399c95a8ee0.ad15a381ad98aa369a68bfb1527d66a9.jpeg",
+      "prix": "699$"
+    }
+  ]
+}
